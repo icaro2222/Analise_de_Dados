@@ -56,3 +56,15 @@ colunasParaMinhaAnalise_pd =['NU_INSCRICAO',
 ```python
 microPd
 ```
+```python
+# microdadosFiltrados_pd = microdados_pd.filter(items=colunasParaMinhaAnalise_pd)
+```
+```python
+# microdadosFiltrados_pd = 0
+```
+```python
+# microPd = microdadosFiltrados_pd
+```
+```python
+microPd
+```
