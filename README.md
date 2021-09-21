@@ -43,7 +43,7 @@ colunasParaMinhaAnalise_pd =['NU_INSCRICAO',
        'Q007', 'Q008', 'Q009', 'Q010', 'Q011', 'Q012', 'Q013', 'Q014',
        'Q015', 'Q016', 'Q017', 'Q018', 'Q019', 'Q020', 'Q021', 'Q022',
        'Q023', 'Q024', 'Q025']
-```
+``` 
 
 ```python
 # microdadosFiltrados_pd = microdados_pd.filter(items=colunasParaMinhaAnalise_pd)
